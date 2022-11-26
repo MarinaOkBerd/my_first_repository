@@ -8,3 +8,7 @@ BADBAD TEXT
 
 Browser bad text
 
+## Картинки
+Это яблоко
+
+![Яблоко](apple.png)
