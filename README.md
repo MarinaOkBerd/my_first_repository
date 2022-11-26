@@ -9,7 +9,7 @@ BADBAD TEXT
 Browser bad text
 
 ## Картинки
-Это яблоко
+Это яблоко. This apple.
 
 ![Яблоко](apple.png)
 
